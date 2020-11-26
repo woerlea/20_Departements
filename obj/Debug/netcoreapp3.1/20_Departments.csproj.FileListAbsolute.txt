@@ -1,0 +1,13 @@
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.csprojAssemblyReference.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.AssemblyInfoInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.AssemblyInfo.cs
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.exe
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.deps.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.runtimeconfig.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.runtimeconfig.dev.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\bin\Debug\netcoreapp3.1\20_Departments.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\20_Departments\obj\Debug\netcoreapp3.1\20_Departments.genruntimeconfig.cache
